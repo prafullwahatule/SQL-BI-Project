@@ -34,7 +34,7 @@ This repository contains a **Pizza Sales Report Dashboard** project built for an
 ## 🖼 Screenshots
 
 **Dashboard Overview**
-![Dashboard Home](./images/dashboard_home.png)
+![Dashboard Home](<img width="1279" height="716" alt="Screenshot 2025-07-02 135957" src="https://github.com/user-attachments/assets/34761e5a-a887-4a75-aad3-5265b2218325" />)
 
 **Best/Worst Seller Analysis**
 ![Best/Worst Seller](./images/best_worst_seller.png)
@@ -62,7 +62,7 @@ This repository contains a **Pizza Sales Report Dashboard** project built for an
 
 
 
-<img width="1279" height="716" alt="Screenshot 2025-07-02 135957" src="https://github.com/user-attachments/assets/34761e5a-a887-4a75-aad3-5265b2218325" />
+
 
 
 
